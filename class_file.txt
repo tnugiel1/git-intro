@@ -1,1 +1,2 @@
 This is my github class file 
+This is more text in my file
